@@ -764,8 +764,8 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:mt-20 {
-    margin-top: 5rem;
+  .md\:mt-32 {
+    margin-top: 8rem;
   }
 
   .md\:w-content {
